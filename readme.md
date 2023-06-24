@@ -1,6 +1,6 @@
 API Automation
 
-Frameword
+Framework
 1. Node.js
 2. Supertest : Membuat request http
 3. JEST : Unit test
